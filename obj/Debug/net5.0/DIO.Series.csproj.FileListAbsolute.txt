@@ -1,0 +1,16 @@
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\LocalizaLabs .NET Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
